@@ -4,13 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91e005f5-6eee-4837-bcee-caad0d8ba151" name="Changes" comment="" />
+    <list default="true" id="91e005f5-6eee-4837-bcee-caad0d8ba151" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2UKGCSbOQoXVL1aybv9hmKpcCLz" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -21,6 +39,87 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="java2.Java_Flow_Control" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AuthApp4">
+    <configuration name="AuthApp - egoing" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="java2.Java_Flow_Control.AuthApp" />
+      <module name="java_study" />
+      <option name="PROGRAM_PARAMETERS" value="egoing 123456" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java2.Java_Flow_Control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthApp2" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java2.Java_Flow_Control.AuthApp2" />
+      <module name="java_study" />
+      <option name="PROGRAM_PARAMETERS" value="egoing 123456" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java2.Java_Flow_Control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthApp3 - egoing" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="java2.Java_Flow_Control.AuthApp3" />
+      <module name="java_study" />
+      <option name="PROGRAM_PARAMETERS" value="hihi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java2.Java_Flow_Control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthApp4" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java2.Java_Flow_Control.AuthApp4" />
+      <module name="java_study" />
+      <option name="PROGRAM_PARAMETERS" value="leezche 1111" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java2.Java_Flow_Control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IFApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java2.Java_Flow_Control.IFApp" />
+      <module name="java_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java2.Java_Flow_Control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IFApp" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
