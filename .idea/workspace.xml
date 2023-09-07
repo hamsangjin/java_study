@@ -44,7 +44,33 @@
       <recent name="java2.Java_Flow_Control" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AuthApp4">
+  <component name="RunManager" selected="Application.staticMethod">
+    <configuration name="AccessLevelModifiersMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java2.ProjectMethod.AccessLevelModifiersMethod" />
+      <module name="java_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java2.ProjectMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountingApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java2.ProjectMethod.AccountingApp" />
+      <module name="java_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java2.ProjectMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AuthApp - egoing" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="java2.Java_Flow_Control.AuthApp" />
       <module name="java_study" />
@@ -101,12 +127,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IFApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java2.Java_Flow_Control.IFApp" />
+    <configuration name="WhyMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java2.ProjectMethod.WhyMethod" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java2.Java_Flow_Control.*" />
+          <option name="PATTERN" value="java2.ProjectMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="staticMethod (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java2.ProjectMethod.staticMethod" />
+      <module name="java_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java2.ProjectMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="staticMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java2.ProjectMethod.staticMethod" />
+      <module name="java_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java2.ProjectMethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,7 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IFApp" />
+        <item itemvalue="Application.staticMethod" />
+        <item itemvalue="Application.staticMethod (1)" />
+        <item itemvalue="Application.AccessLevelModifiersMethod" />
+        <item itemvalue="Application.AccountingApp" />
+        <item itemvalue="Application.WhyMethod" />
       </list>
     </recent_temporary>
   </component>
